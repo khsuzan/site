@@ -161,7 +161,6 @@ body section{
 }
 .skills-cards{
     width: 100%;
-    height: 600px;
     box-sizing: border-box;
 }
 .column-three{ 
@@ -186,6 +185,9 @@ body section{
 }
 .cardd3 ,.projects-cards .pcardd3+h3{
     margin-left: 60px;
+}
+.cardd1,.cardd2,.cardd3{
+    height: 450px;
 }
 .cardd h3{
     color: white;
